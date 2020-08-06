@@ -1,7 +1,7 @@
 
 ### Installation
 
-Download the project and install the Node.js packages
+Download the project and install the Node.js packages.
 
 ``` bash
 $ npm install
@@ -26,7 +26,7 @@ You may use /data/teachers.sql to import the database.
 
 ### Usage
 
-Start the server using
+Start the server locally using
 
 ``` bash
 $ npm start
